@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi there, I'm Innocent!
 
-<!--
-**INNOCENT-010/INNOCENT-010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗺️ Full-stack Developer.
+📊 Currently I'm learning, building better versions and living my journey in tech. 
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Python, JavaScript, React, Next.js, SQLite, Supabase, Stripe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏳currently I'm building an E-commerce website. 
+
+🌐 Socials: 
+
+
+ 
+
