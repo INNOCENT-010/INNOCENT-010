@@ -10,7 +10,8 @@ Python, JavaScript, React, Next.js, JWT, PostgreSQL, SQLite, Supabase, Stripe
 O*****, using FastAPI for auth and order orchestration, Supabase for product data
 and media storage, and Next.js for a high-conversion frontend.”
 
-🌐 Socials: 
+🌐 Socials: https://x.com/Innocentdev09
+          : 
 
 
 
